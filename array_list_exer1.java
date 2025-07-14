@@ -25,10 +25,10 @@ public class array_list_exer1{
         }
 
             if(found==true){
-                System.out.println("yes"+check+" is exist in the list");
+                System.out.println("yes "+check+ " is exist in the list");
             }
             else{
-                System.out.println(check+"does not exist in the array list");
+                System.out.println(check+" does not exist in the array list");
             }
                
 
