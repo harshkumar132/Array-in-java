@@ -10,6 +10,7 @@ public class array_list_exer5 {
         list.add(7);
         list.add(76);
         list.add(68);
+        list.add(65);
 
         System.out.println(list);
         boolean found=false;
